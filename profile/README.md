@@ -4,8 +4,9 @@ This is an on-going effort for using *quasimetrics* to improve deep learning app
 
 ## Our Projects
 
-+ [`quasimetric-learning/torch-quasimetric`](https://github.com/quasimetric-learning/torch-quasimetric): State-of-The-Art Quasimetric Models in PyTorch. Deep neural networks that are guaranteed to be quasimetrics.
++ [`torch-quasimetric`](https://github.com/quasimetric-learning/torch-quasimetric): State-of-The-Art Quasimetric Models in PyTorch. Deep neural networks that are guaranteed to be quasimetrics.
 
++ [`quaimetric-rl`](https://github.com/quasimetric-learning/quasimetric-rl): Learning an environment's quasimetric geometry => Good goal-reaching agents. 
 
 <!--
 ## Quasimetric Papers
